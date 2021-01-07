@@ -1,0 +1,14 @@
+        #thirdDiv {
+            height: 600px;
+            width: 500px;
+            background: darksalmon;
+            padding: 50px;
+            border: 15px solid black;
+        }
+        #spanId {
+        font-size: 18px;
+        border: 50px;
+        }
+        body {
+            background-image: url('Wallpaper.jpg');
+            }
