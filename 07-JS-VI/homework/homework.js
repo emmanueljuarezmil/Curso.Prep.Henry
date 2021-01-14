@@ -3,7 +3,7 @@
 function invocarCallback(cb) {
   // Invoca al callback `cb`
 
-return cb(invocarCallback)
+cb(invocarCallback)
 
 }
 

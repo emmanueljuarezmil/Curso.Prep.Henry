@@ -1,0 +1,9 @@
+Homework.txt
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: Las variables son una forma de almacenar algo, un dato o generalmente un conjunto de datos u otras variables, sea del tipo que fuere, o una funcion, para citarlos y utilizarlos nuevamente sin tener la necesidad de escribirlos o indicarlos completamente de nuevo. Por ejemplo, si tengo una expresion matematica grande que dentro de ella repite otras expresiones más pequeñas, estas expresiones puedo almacenarlas para no tener que escribirlas reiteradas veces asignandoles un nombre.
+Strings: Un string es simplemente un conjunto de caracteres, que puede ser numerico o no, pero que se comporta como texto.
+Funciones (argumentos, return): una funcion almacena un conjunto de ordenes, para procesar los datos (argumentos) que le ingresemos, y realice las operaciones que indicamos. Luego nos devolvera un "algo procesado", un return o retorno, segun los argumentos que se ingresen y los procesos que indiquemos.
+Declaraciones if: una declaracion if en español es una condicion de si. Lo que hacemos con él, es indicar que si se cumple determinada condicion, se realiza tal proceso o ejecuta tal cosa, de lo contrario se realiza o ejecuta tal otra.
+Valores booleanos (true, false): los valores booleanos son 2 condiciones que pueden existir, en la que algo asuma un valor verdadero o una funcion o comparacion se cumpla, o de lo contrario sea falso

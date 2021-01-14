@@ -1,0 +1,10 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+for es un bucle que se utiliza cuando tenemos que usar una variable que de acuerdo a determinadas condiciones va cambiando, e inicia en cierta condicion, y termina en cierta condicion, para evitarnos tener que usar una cantidad de variables diferentes igual a la cantidad de condiciones diferentes que tiene que asumir dicha variable. mientras la condicion se cumpla se ejecutara un codigo o proceso que definamos
+los operadores logicos definidos nos definiran:
+&&: que se cumplan 2 (o mas) condiciones determinadas, para que se ejecute un codigo o proceso que definamos
+||: que se cumpla cualquiera de las 2 (o mas) condiciones determinadas, para que se ejecute un codigo o proceso que definamos
+!: es el equivalente al desigual matematico. con el le estaremos indicando que se ejecute un codigo o proceso que definamos, si no se cumple determinada condicion.

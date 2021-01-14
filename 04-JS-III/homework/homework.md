@@ -1,0 +1,3 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays: Los arrays o arreglos en español son un contenedor de datos con un lugar para cada dato. Seria como una caja grande (arreglo), que adentro contiene cajas más pequeñas separadas, una para cada dato que le definamos. Pueden existir a su vez arreglos adentro de un arreglo

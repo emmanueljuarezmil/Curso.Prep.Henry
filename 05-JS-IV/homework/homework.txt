@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: Los objetos son un conjunto de datos o caracteristas referidas al objeto en particular. Puede ser una persona, una escuela, etc.
+Propiedades: Las propiedades son caracteristicas descritas por su nombre que asumen un valor y nos dice que el objeto el cual tiene esta propiedad o caracteristica, tiene tal valor. Ej un auto es un objeto, el color del auto es azul.
+Métodos: Un metodo es como llamar a una funcion o un conjunto de ordenes que previamente defini, para aplicarlo en un objeto en particular.
+Bucle for…in: En un bucle o loop definimos instancias entre las que ocurrira una funcion o un conjunto de ordenes mientras esas instancias se cumplan desde tal a cual punto, y que se puede hacer referencia al valor de dichas instancias. Suponiendo que definimos 3 instancias, 1 a 3, 3 series de un ejercicio, y haremos el doble de repeticiones del numero de serie del ejercicio. En la primera instancia haremos 2 repeticiones, en la tercera haremos 6, y la cuarta serie ya no entra porque definimos hacer 3 series solamente.
+Notación de puntos vs notación de corchetes: En la notacion de puntos nos referimos literal o expresamente a la propiedad de un objeto, no podemos hacer referencia a una funcion o una variable que de como resultado el nombre de esa propiedad. En la notacion entre corchetes si podemos realizar esto
