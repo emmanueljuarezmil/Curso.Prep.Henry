@@ -2,8 +2,13 @@
             height: 600px;
             width: 500px;
             background: darksalmon;
+            margin: auto;
             padding: 50px;
-            border: 15px solid black;
+            border: 50px solid white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
         }
         #spanId {
         font-size: 18px;
@@ -12,3 +17,10 @@
         body {
             background-image: url('Wallpaper.jpg');
             }
+
+        .divClass {
+            font-size: 20px;
+            position: center;
+            border: 8px solid black;
+            margin: 4px;
+        }
